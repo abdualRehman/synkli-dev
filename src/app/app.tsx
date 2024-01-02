@@ -107,6 +107,8 @@ const features = [
 ]
 
 const App = (): JSX.Element => {
+  console.log("fdsf");
+  
   return (
     <main className={styles.main}>
       <header className={styles.header}>
